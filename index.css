@@ -11,3 +11,7 @@
 ul {
   list-style: none;
 }
+
+.avatar-img {
+  width: 50px;
+}
